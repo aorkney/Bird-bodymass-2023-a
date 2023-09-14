@@ -1,3 +1,16 @@
+The scripts herein draw upon a published dataset of bird geometric morphometric skeletal shapes published by Bjarnason & Benson: 
+https://doi.org/10.18563/journal.m3.125
+Phylogenetic relationships between these birds are represented by the phylogeny of Prum et al., 2015:
+https://doi.org/10.1038/nature15697
+
+Ancillary ecological metadata was assembled from various sources, see Orkney et al., 2021 for details:
+https://doi.org/10.1038/s41559-021-01509-w
+
+The scripts herein were written by Dr. Andrew Orkney and parsed by Prof. Brandon Hedrick together at the College of Veterinary Medicine, Department of Biomedical Sciences, Cornell University.
+Dr. Andrew Orkney and Prof. Brandon Hedrick collaborated together to design and undertake analyses. 
+
+We thank Dr. Alex Bjarnason and Prof. Roger Benson for their ongoing and valued support. 
+
 Figure 1: Figure 1 is a phylogram illustrating the phylogenetic structure of body mass and an ancestral state reconstruction over the 149 bird species used in this study. 
 There are also a collection of subplots which illustrate increasing variance in skeletal proportions in more massive bird taxa. Allometric trends have been parsed-out prior to this analysis. 
 These subplots demonstrate that some modular regions, such as the leg, exhibit a proximo-distal gradient of increasing variance- consistent with the sequence of embryogenesis. 
