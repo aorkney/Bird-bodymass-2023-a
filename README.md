@@ -19,3 +19,8 @@ as heteroskedasticity; if integration increases between two bones as avian body 
 body mass the individual taxa will tend to become more widely scattered and Dm will become larger. 
 Explicit tests for heteroskedasticity are computed, revealing how changes in body mass- and an overall macroevolutionary trend for miniaturisation- reorganise modular evolution across
 the avian skeleton. 
+Run script 'Dm_plots_08_04_2023.R' to produce this figure.
+
+Additional analysis:
+Run script 'Test_evolutionary_rates_by_bodymass.R' to test whether lineage origination is significantly different between bird lineages typified by low or high body mass. 
+Run script 'eco_evo_over_tree_08_17_2023.R' to test whether small birds or big birds tend to explore a non-metric space of flight-style variety at different rates. 
