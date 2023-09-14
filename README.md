@@ -11,3 +11,11 @@ a) Run script 'Residual_Csize_10_08_2022.R' to generate a dataset of avian bone 
 b) Run script 'Integration_v_body_mass_11_08_2022.R' to run the analysis.
 
 c) Run script 'Plot_integration_v_body_mass_14_11_2022.R' to plot the analysis output (Figure 2).
+
+Figure 3: Figure 3 is a phylogram that helps the reader envision phylogenetic relationships with a colour-blind friendly colour gradient identifying 20 subtrees.
+Figure 3 also includes plots that show how the dipersion of individual bird taxa from major axes of integration between different bone combinations are structured by body mass. 
+A smaller dispersion ('Dm') indicates higher integration, whereas more widely scattered Dm values indicate weaker integration. When Dm is structured over body mass this manifests
+as heteroskedasticity; if integration increases between two bones as avian body mass increases then Dm will tend to be smaller, whereas if it becomes weaker with increasing
+body mass the individual taxa will tend to become more widely scattered and Dm will become larger. 
+Explicit tests for heteroskedasticity are computed, revealing how changes in body mass- and an overall macroevolutionary trend for miniaturisation- reorganise modular evolution across
+the avian skeleton. 
